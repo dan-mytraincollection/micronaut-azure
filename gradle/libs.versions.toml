@@ -8,7 +8,7 @@ jetty-server = "9.4.35.v20201120"
 kotlin = "1.7.10"
 
 # Micronaut
-micronaut = "3.4.3"
+micronaut = "3.5.4"
 micronaut-test = "3.4.0"
 
 
